@@ -216,6 +216,36 @@ body {
   border: none;
   cursor: pointer;
 }
+.tag_btn#spice{
+  background: rgba(236, 104, 51, 0.5);
+}
+.tag_btn#ship{
+  background: rgba(80, 75, 6, 0.5);
+}
+.tag_btn#conflict{
+  background: rgba(225, 73, 73, 0.5);
+}
+.tag_btn#oceans{
+  background: rgba(25, 164, 229, 0.5);
+}
+.tag_btn#discovery{
+  background: rgba(35, 82, 103, 0.5);
+}
+.tag_btn#difficulty{
+  background: rgba(80, 15, 15, 0.5);
+}
+.tag_btn#arrival{
+  background: rgba(162, 52, 221, 0.5);
+}
+.tag_btn#religion{
+  background: rgba(210, 235, 18, 0.5);
+}
+.tag_btn#death{
+  background: rgba(0, 0, 0, 0.512);
+}
+.tag_btn#end{
+  background: rgba(69, 69, 69, 0.512);
+}
 .timeline_box .timeline_content .desc {
   color: #4d4d4d;
   font-weight: 300;
