@@ -293,7 +293,7 @@ body {
   }
 }
 
-.header {
+.header, .footer {
   margin-top: 0px;
   margin-bottom: 0px;
   display: flex;
