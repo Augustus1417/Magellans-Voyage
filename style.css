@@ -20,6 +20,7 @@ body {
   background-size: 110%;
 }
 
+
 .main {
   width: 100%;
   min-height: 100vh;
@@ -290,4 +291,22 @@ body {
   .timeline_container .timeline_box {
     margin: 0.625rem 0;
   }
+}
+
+.header {
+  margin-bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 50px;
+  gap: 20px;
+  background: #1d1d1d;
+  background: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.50),
+      rgba(0, 0, 0, 0.55)
+    );
+  text-align: center;
 }
